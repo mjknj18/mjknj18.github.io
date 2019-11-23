@@ -1,3 +1,3 @@
 # mjknj18.github.io
 
-Deployment repository for Global City Latitude Analysis website.
+Deployment Repository for Global City Latitude Analysis Website.
