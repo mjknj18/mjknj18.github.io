@@ -1,3 +1,3 @@
 # mjknj18.github.io
 
-Deployment Repository for Global City Latitude Analysis Website.
+Deployment Repository for Belly Button Biodiversity Analysis Website.
